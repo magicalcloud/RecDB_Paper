@@ -1,5 +1,5 @@
 __pycache__/
-../build/
+src/build/
 *.egg-info/
 experimental_results/
 *outputs/
