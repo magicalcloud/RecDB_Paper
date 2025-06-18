@@ -1,0 +1,3 @@
+[submodule "src/rec-lsm"]
+	path = src/rec-lsm
+	url = git@github.com:magicalcloud/rec-lsm.git
