@@ -1,0 +1,4 @@
+Optimazations,Number of loaded data blocks(*10^5)
+RP(KS+KA),26.86
+RP(KS),31.78
+RocksDB,49.96

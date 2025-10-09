@@ -1,0 +1,5 @@
+Optimization,update latency
+RocksDB,1
+RP,1.22909
+RP+CP,1.21587
+RP+CP+CS,1.17248

@@ -1,0 +1,5 @@
+Optimization,prefetch latency
+RocksDB,1
+RP,0.58936
+RP+CP,0.59078
+RP+CP+CS,0.54397
